@@ -1,2 +1,2 @@
-# first-callus
-Collection of my very first beginner projects
+# first-step
+My very first website built with only HTML
